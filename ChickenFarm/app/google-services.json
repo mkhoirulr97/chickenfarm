@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "759070022472",
+    "firebase_url": "https://chickenfarm-ea839-default-rtdb.firebaseio.com",
+    "project_id": "chickenfarm-ea839",
+    "storage_bucket": "chickenfarm-ea839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759070022472:android:af633ad2993deee1bbf17d",
+        "android_client_info": {
+          "package_name": "com.example.chicken_farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759070022472-9ucq3kj56p38jcpaf2juu39dr1b9leo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTSw-sSDAe4_FlU6VlT0BXhKyilb3Yus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759070022472-9ucq3kj56p38jcpaf2juu39dr1b9leo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759070022472:android:c35364d2e5786c6fbbf17d",
+        "android_client_info": {
+          "package_name": "com.example.chickenfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759070022472-9ucq3kj56p38jcpaf2juu39dr1b9leo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeTSw-sSDAe4_FlU6VlT0BXhKyilb3Yus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759070022472-9ucq3kj56p38jcpaf2juu39dr1b9leo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
